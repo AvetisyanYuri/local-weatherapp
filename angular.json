@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "local-weatherapp"
+  "defaultProject": "local-weatherapp",
+  "cli": {
+    "analytics": false
+  }
 }
